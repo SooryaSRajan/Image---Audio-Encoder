@@ -1,0 +1,37 @@
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+logs/
+
+# Test output
+.coverage
+.tox/
+.nox/
+.hypothesis/
+.pytest_cache/
+
+# Build directories
+dist/
+build/
+
+# Secrets and config files
+.env
+.env.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
